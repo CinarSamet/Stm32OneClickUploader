@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|c:\\users\\\u00E7\u0131nar\\onedrive\\masa\u00FCst\u00FC\\evadeai\\stm32oneclickuploader\\stm32oneclickuploader\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|solutionrelative:stm32oneclickuploader\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|c:\\users\\\u00E7\u0131nar\\onedrive\\masa\u00FCst\u00FC\\evadeai\\stm32oneclickuploader\\stm32oneclickuploader\\core\\stm32cliwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|solutionrelative:stm32oneclickuploader\\core\\stm32cliwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|c:\\users\\\u00E7\u0131nar\\onedrive\\masa\u00FCst\u00FC\\evadeai\\stm32oneclickuploader\\stm32oneclickuploader\\core\\uploadresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|solutionrelative:stm32oneclickuploader\\core\\uploadresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|c:\\users\\\u00E7\u0131nar\\onedrive\\masa\u00FCst\u00FC\\evadeai\\stm32oneclickuploader\\stm32oneclickuploader\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|solutionrelative:stm32oneclickuploader\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|c:\\users\\\u00E7\u0131nar\\onedrive\\masa\u00FCst\u00FC\\evadeai\\stm32oneclickuploader\\stm32oneclickuploader\\stm32oneclickuploader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|solutionrelative:stm32oneclickuploader\\stm32oneclickuploader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|c:\\users\\\u00E7\u0131nar\\onedrive\\masa\u00FCst\u00FC\\evadeai\\stm32oneclickuploader\\stm32oneclickuploader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|solutionrelative:stm32oneclickuploader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|c:\\users\\\u00E7\u0131nar\\onedrive\\masa\u00FCst\u00FC\\evadeai\\stm32oneclickuploader\\stm32oneclickuploader\\utils\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADBF768-CD85-49B3-AEBA-6CC3B22B0A95}|Stm32OneClickUploader\\Stm32OneClickUploader.csproj|solutionrelative:stm32oneclickuploader\\utils\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{33c88fe3-43b3-374e-9aac-c4679036dce0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "Stm32OneClickUploader\\UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\UI\\MainForm.cs",
+              "RelativeToolTip": "Stm32OneClickUploader\\UI\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T01:32:58.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\Program.cs",
+              "RelativeDocumentMoniker": "Stm32OneClickUploader\\Program.cs",
+              "ToolTip": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\Program.cs",
+              "RelativeToolTip": "Stm32OneClickUploader\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T01:26:53.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "Stm32OneClickUploader\\UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\UI\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Stm32OneClickUploader\\UI\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T01:26:47.629Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\Utils\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Stm32OneClickUploader\\Utils\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\Utils\\FileValidator.cs",
+              "RelativeToolTip": "Stm32OneClickUploader\\Utils\\FileValidator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T01:23:46.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stm32CliWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\Core\\Stm32CliWrapper.cs",
+              "RelativeDocumentMoniker": "Stm32OneClickUploader\\Core\\Stm32CliWrapper.cs",
+              "ToolTip": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\Core\\Stm32CliWrapper.cs",
+              "RelativeToolTip": "Stm32OneClickUploader\\Core\\Stm32CliWrapper.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T01:20:02.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadResult.cs",
+              "DocumentMoniker": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\Core\\UploadResult.cs",
+              "RelativeDocumentMoniker": "Stm32OneClickUploader\\Core\\UploadResult.cs",
+              "ToolTip": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\Core\\UploadResult.cs",
+              "RelativeToolTip": "Stm32OneClickUploader\\Core\\UploadResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T01:19:28.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stm32OneClickUploader.csproj",
+              "DocumentMoniker": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\Stm32OneClickUploader.csproj",
+              "RelativeDocumentMoniker": "Stm32OneClickUploader\\Stm32OneClickUploader.csproj",
+              "ToolTip": "C:\\Users\\\u00C7\u0131nar\\OneDrive\\Masa\u00FCst\u00FC\\EvadeAI\\Stm32OneClickUploader\\Stm32OneClickUploader\\Stm32OneClickUploader.csproj",
+              "RelativeToolTip": "Stm32OneClickUploader\\Stm32OneClickUploader.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-10T01:17:13.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
